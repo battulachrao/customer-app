@@ -35,7 +35,7 @@
       <muleVersion>4.3.0</muleVersion>
       <username>ramanjamma</username>
       <password>Bchandu@2001</password>
-      <applicationName>devopsapplication</applicationName>
+      <applicationName>custmerapplication</applicationName>
       <objectStoreV2>true</objectStoreV2>
       <environment>Sandbox</environment>
       <workerType>MICRO</workerType>
